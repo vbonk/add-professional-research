@@ -2,7 +2,7 @@
 
 > **A comprehensive research project and web application for professional adult males (25-55) with ADHD**
 
-[![Phase 3 Complete](https://img.shields.io/badge/Phase%203-Complete-brightgreen)](https://github.com/your-username/add-professional-research)
+[![Phase 3 Complete](https://img.shields.io/badge/Phase%203-Complete-brightgreen)](https://github.com/vbonk/add-professional-research)
 [![Knowledge Base](https://img.shields.io/badge/Knowledge%20Base-303%20Entries-blue)](./data/knowledge_base/)
 [![Target Achievement](https://img.shields.io/badge/Target-101.0%25%20Achieved-success)](./docs/victory_summary.json)
 
@@ -182,7 +182,7 @@ The project includes a sophisticated session management system that:
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/add-professional-research.git
+git clone https://github.com/vbonk/add-professional-research.git
 cd add-professional-research
 
 # Initialize session context
