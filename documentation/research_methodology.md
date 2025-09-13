@@ -2,10 +2,10 @@
 ## Systematic Review Protocol for Adult Male ADD Research
 
 ### Research Objective
-Execute comprehensive, evidence-based research on Attention Deficit Disorder (ADD/ADHD) as it specifically affects professional, intelligent, working-age men (25-55 years), with focus on identification, assessment, workplace impact, treatment options, and life management strategies.
+Execute comprehensive, evidence-based research on Attention Deficit Disorder (ADD/ADHD) as it specifically affects professional, intelligent, working-age men (25-65 years), with focus on identification, assessment, workplace impact, treatment options, and life management strategies.
 
 ### Target Population
-**Primary Avatar:** Professional, highly intelligent, working-age male (25-55) with potential or diagnosed ADD seeking evidence-based information and strategies for identification, understanding, and management in career and life contexts.
+**Primary Avatar:** Professional, highly intelligent, working-age male (25-65) with potential or diagnosed ADD seeking evidence-based information and strategies for identification, understanding, and management in career and life contexts.
 
 ### Research Domains
 1. **Adult Male ADD Identification & Assessment**
@@ -120,7 +120,7 @@ All research findings will be structured according to the provided JSON schema w
   "domain": "Foundational|Biology|Clinical|Comorbidities|Treatments|Management|Social|Economics",
   "subtopic": "string",
   "knowledge_point": "string (max 200 chars)",
-  "population": "Professional adult men 25-55",
+  "population": "Professional adult men 25-65",
   "study_design": "SR/MA|RCT|Cohort|Case-control|Cross-sectional|Guideline|Expert",
   "evidence_level": 1-5,
   "effect_size": "string",

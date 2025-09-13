@@ -8,7 +8,7 @@
       "id": "ADD-Workplace-001",
       "domain": "Workplace & Career Impact",
       "subtopic": "Executive Dysfunction and Time Management",
-      "knowledge_point": "Adult males (25-55, professional) with attention-deficit/hyperactivity disorder (ADHD) frequently experience significant executive function deficits, ..."
+      "knowledge_point": "Adult males (25-65, professional) with attention-deficit/hyperactivity disorder (ADHD) frequently experience significant executive function deficits, ..."
     },
     {
       "id": "ADD-Assessment-DIVA",
@@ -20,7 +20,7 @@
       "id": "ADD-DifferentialDiagnosis-AdultMale-001",
       "domain": "Adult ADHD",
       "subtopic": "Differential Diagnosis",
-      "knowledge_point": "Differential diagnosis of adult ADHD in professional males (25-55) involves distinguishing it from various psychiatric comorbidities and medical condi..."
+      "knowledge_point": "Differential diagnosis of adult ADHD in professional males (25-65) involves distinguishing it from various psychiatric comorbidities and medical condi..."
     },
     {
       "id": "ADD-Trauma-001",
@@ -40,7 +40,7 @@
       "id": "ADD-Workplace-001",
       "domain": "Workplace & Career Impact",
       "subtopic": "Executive Dysfunction and Time Management",
-      "knowledge_point": "Adult males (25-55, professional) with attention-deficit/hyperactivity disorder (ADHD) frequently experience significant executive function deficits, ..."
+      "knowledge_point": "Adult males (25-65, professional) with attention-deficit/hyperactivity disorder (ADHD) frequently experience significant executive function deficits, ..."
     },
     {
       "id": "ADD-Workplace-ExecutiveFunction-001",
@@ -72,7 +72,7 @@
       "id": "ADD-Workplace-001",
       "domain": "Workplace & Career Impact",
       "subtopic": "Executive Dysfunction and Time Management",
-      "knowledge_point": "Adult males (25-55, professional) with attention-deficit/hyperactivity disorder (ADHD) frequently experience significant executive function deficits, ..."
+      "knowledge_point": "Adult males (25-65, professional) with attention-deficit/hyperactivity disorder (ADHD) frequently experience significant executive function deficits, ..."
     },
     {
       "id": "ADD-Workplace-ExecutiveFunction-001",
@@ -95,7 +95,7 @@
     {
       "id": "ADD-Mindfulness-Lee2017",
       "domain": "Mindfulness-based interventions for adult ADHD",
-      "subtopic": "Effectiveness in adult males (25-55, professional)",
+      "subtopic": "Effectiveness in adult males (25-65, professional)",
       "knowledge_point": "Mindfulness-based interventions (MBCT, MAP, MBSR) show promising results in improving attention and reducing inattention symptoms in adults with ADHD...."
     }
   ]

@@ -25,7 +25,7 @@
 gh auth login
 
 # Create the repository (if not already created)
-gh repo create add-professional-research --public --description "Comprehensive research project and web application for professional adult males (25-55) with ADHD. Phase 3 complete with 303 evidence-based knowledge base entries."
+gh repo create add-professional-research --public --description "Comprehensive research project and web application for professional adult males (25-65) with ADHD. Phase 3 complete with 303 evidence-based knowledge base entries."
 
 # Push to GitHub
 git push -u origin main
@@ -44,7 +44,7 @@ git push -u origin main
 1. Go to https://github.com/new
 2. Create repository named `add-professional-research`
 3. Set as public repository
-4. Add description: "Comprehensive research project and web application for professional adult males (25-55) with ADHD. Phase 3 complete with 303 evidence-based knowledge base entries."
+4. Add description: "Comprehensive research project and web application for professional adult males (25-65) with ADHD. Phase 3 complete with 303 evidence-based knowledge base entries."
 5. Do NOT initialize with README (we already have one)
 6. Push local repository:
 ```bash

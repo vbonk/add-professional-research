@@ -1,8 +1,8 @@
 {
   "intervention_library_id": "adhd_professional_interventions_v1",
   "name": "ADHD Professional Intervention Library",
-  "description": "Comprehensive evidence-based intervention library for professional adult males (25-55) with ADHD, including implementation difficulty ratings",
-  "target_population": "Professional adult males (25-55) with confirmed or suspected ADHD",
+  "description": "Comprehensive evidence-based intervention library for professional adult males (25-65) with ADHD, including implementation difficulty ratings",
+  "target_population": "Professional adult males (25-65) with confirmed or suspected ADHD",
   "evidence_base": "Based on 189 treatment-related entries from 303-entry knowledge base",
   "intervention_categories": [
     {

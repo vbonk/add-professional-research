@@ -41,7 +41,7 @@
 3. **Treatment Decision Tree Navigation** - Interactive pathway guidance
 4. **Intervention Library Integration** - Searchable, filterable intervention database
 5. **Responsive Design** - Desktop and mobile optimization
-6. **Professional Branding** - Targeted for working professionals (25-55)
+6. **Professional Branding** - Targeted for working professionals (25-65)
 
 ### **Technical Specifications:**
 - **Framework:** React (using manus-create-react-app utility)

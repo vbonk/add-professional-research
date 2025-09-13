@@ -16,7 +16,7 @@
 - ✅ **80+ Research Domains** comprehensively covered
 - ✅ **799KB Knowledge Base** with 21,063 lines of structured data
 - ✅ **100% JSON Schema Compliance** across all entries
-- ✅ **95%+ Avatar Relevance** (professional adult males 25-55)
+- ✅ **95%+ Avatar Relevance** (professional adult males 25-65)
 - ✅ **90%+ Evidence Quality** (systematic reviews, RCTs, meta-analyses)
 
 ### 📁 CRITICAL FILES FOR MIGRATION

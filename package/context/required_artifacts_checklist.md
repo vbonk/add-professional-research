@@ -133,7 +133,7 @@ New Session Files/
 3. Redirect: "Maintain professional adult male avatar focus"
 
 **If Avatar Focus Drifts:**
-1. Remind: "Focus on professional, working-age men (25-55) with ADD"
+1. Remind: "Focus on professional, working-age men (25-65) with ADD"
 2. Reference: "Use playlist_analysis.md for target audience insights"
 3. Validate: "Ensure workplace and career relevance for all content"
 

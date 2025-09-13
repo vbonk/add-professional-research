@@ -5,7 +5,7 @@
 
 ## **TARGET AVATAR & MISSION**
 
-**Avatar:** Professional, highly intelligent, working-age male (25-55) with potential ADD who desires evidence-based information and strategies for identifying, understanding, and addressing ADD in the context of career success and life management.
+**Avatar:** Professional, highly intelligent, working-age male (25-65) with potential ADD who desires evidence-based information and strategies for identifying, understanding, and addressing ADD in the context of career success and life management.
 
 **Mission:** Execute comprehensive, focused ADD research for this population using production-grade methodology, then build an interactive web application that serves as the definitive resource for professional men exploring or managing ADD.
 

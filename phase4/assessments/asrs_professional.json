@@ -1,8 +1,8 @@
 {
   "assessment_id": "asrs_professional_v1",
   "name": "ASRS-Based Professional ADHD Assessment",
-  "description": "Evidence-based self-assessment tool for professional adult males (25-55) based on ASRS-v1.1 and validated research",
-  "target_population": "Professional, intelligent, working-age men (25-55) with potential or diagnosed ADHD",
+  "description": "Evidence-based self-assessment tool for professional adult males (25-65) based on ASRS-v1.1 and validated research",
+  "target_population": "Professional, intelligent, working-age men (25-65) with potential or diagnosed ADHD",
   "evidence_base": "Based on 44 assessment-related entries from 303-entry knowledge base",
   "sections": [
     {
@@ -336,7 +336,7 @@
   },
   "validation": {
     "evidence_base": "303 research entries from systematic literature review",
-    "target_population_relevance": "95%+ professional adult males (25-55)",
+    "target_population_relevance": "95%+ professional adult males (25-65)",
     "evidence_quality": "90%+ high-quality sources (systematic reviews, RCTs)",
     "last_updated": "2025-09-12"
   }

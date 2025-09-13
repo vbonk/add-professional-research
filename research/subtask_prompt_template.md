@@ -1,7 +1,7 @@
 '''
-**Mission:** Research the topic "{{input}}" within the context of adult male ADHD (25-55, professional) and generate a single, validated knowledge entry in JSON format.
+**Mission:** Research the topic "{{input}}" within the context of adult male ADHD (25-65, professional) and generate a single, validated knowledge entry in JSON format.
 
-**Avatar Focus:** Professional, intelligent, working-age men (25-55) with potential or diagnosed ADD.
+**Avatar Focus:** Professional, intelligent, working-age men (25-65) with potential or diagnosed ADD.
 
 **Research Domains:**
 1.  **Adult Male ADD Identification & Assessment:** Late diagnosis, masking, professional context.

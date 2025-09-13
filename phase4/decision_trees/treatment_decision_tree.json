@@ -1,8 +1,8 @@
 {
   "decision_tree_id": "treatment_pathway_v1",
   "name": "Evidence-Based ADHD Treatment Decision Tree",
-  "description": "Professional treatment pathway for adult males (25-55) based on assessment results and evidence from 189 treatment-related knowledge base entries",
-  "target_population": "Professional adult males (25-55) with confirmed or suspected ADHD",
+  "description": "Professional treatment pathway for adult males (25-65) based on assessment results and evidence from 189 treatment-related knowledge base entries",
+  "target_population": "Professional adult males (25-65) with confirmed or suspected ADHD",
   "evidence_base": "189 treatment-related entries from 303-entry knowledge base",
   "decision_nodes": [
     {

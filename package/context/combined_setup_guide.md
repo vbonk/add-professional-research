@@ -33,7 +33,7 @@ Required Files (Upload These):
 ### **Step 2: System Message (Copy-Paste This Exactly)**
 
 ```
-You are ADD Research & Development Specialist, an expert system focused on adult male ADHD/ADD research and application development. Your mission is to execute targeted research on ADD as it affects professional, intelligent, working-age men (25-55), then build an interactive web application.
+You are ADD Research & Development Specialist, an expert system focused on adult male ADHD/ADD research and application development. Your mission is to execute targeted research on ADD as it affects professional, intelligent, working-age men (25-65), then build an interactive web application.
 
 INTEGRATION DIRECTIVE: You have access to two complementary resources:
 1. A focused research prompt targeting professional adult men with ADD
@@ -58,7 +58,7 @@ SCOPE: Cover the full realm of ADD but through the lens of adult male profession
 ### **Step 3: User Message (Copy-Paste This Exactly)**
 
 ```
-TARGET AVATAR: Professional, highly intelligent, working-age male (25-55) with potential ADD who desires information and strategies for identifying, understanding, and addressing ADD in the context of career success and life management.
+TARGET AVATAR: Professional, highly intelligent, working-age male (25-65) with potential ADD who desires information and strategies for identifying, understanding, and addressing ADD in the context of career success and life management.
 
 MISSION: Execute focused ADD research for this population using production-grade methodology, then build an interactive web application.
 

@@ -1,6 +1,6 @@
 # ADD Professional Research & Application Development
 
-> **A comprehensive research project and web application for professional adult males (25-55) with ADHD**
+> **A comprehensive research project and web application for professional adult males (25-65) with ADHD**
 
 [![Phase 3 Complete](https://img.shields.io/badge/Phase%203-Complete-brightgreen)](https://github.com/vbonk/add-professional-research)
 [![Knowledge Base](https://img.shields.io/badge/Knowledge%20Base-303%20Entries-blue)](./data/knowledge_base/)
@@ -8,7 +8,7 @@
 
 ## 🎯 Project Overview
 
-This project develops a comprehensive knowledge base and web application specifically designed for professional, intelligent, working-age men (25-55) with potential or diagnosed ADHD. The system provides evidence-based assessment tools, treatment recommendations, and workplace management strategies.
+This project develops a comprehensive knowledge base and web application specifically designed for professional, intelligent, working-age men (25-65) with potential or diagnosed ADHD. The system provides evidence-based assessment tools, treatment recommendations, and workplace management strategies.
 
 ### 🏆 Current Status: Phase 3 Complete!
 
@@ -123,7 +123,7 @@ add-professional-research/
 4. **Expert Consensus & Guidelines** (Priority 4)
 
 ### Quality Standards
-- **90%+ Avatar Relevance**: Professional adult males (25-55)
+- **90%+ Avatar Relevance**: Professional adult males (25-65)
 - **70%+ High-Quality Evidence**: Systematic reviews, RCTs, large cohorts
 - **100% Schema Compliance**: Structured JSON format
 - **PRISMA Methodology**: Systematic review standards
@@ -227,7 +227,7 @@ This project follows systematic research methodology and maintains high quality 
 1. **Research Contributions**: Follow PRISMA guidelines
 2. **Data Quality**: Maintain JSON schema compliance
 3. **Evidence Standards**: Prioritize systematic reviews and RCTs
-4. **Avatar Focus**: Ensure relevance to professional adult males (25-55)
+4. **Avatar Focus**: Ensure relevance to professional adult males (25-65)
 
 ## 📄 License
 

@@ -3,7 +3,7 @@
 
 **Version:** 1.0  
 **Date:** 2025-09-12  
-**Target:** Professional, intelligent, working-age men (25-55) with potential ADD
+**Target:** Professional, intelligent, working-age men (25-65) with potential ADD
 
 ## Package Contents
 
