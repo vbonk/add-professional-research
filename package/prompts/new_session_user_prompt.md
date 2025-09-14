@@ -3,148 +3,47 @@
 
 ---
 
-## **TARGET AVATAR & MISSION**
+## **PROJECT OVERVIEW & CURRENT STATE**
 
-**Avatar:** Professional, highly intelligent, working-age male (25-65) with potential ADD who desires evidence-based information and strategies for identifying, understanding, and addressing ADD in the context of career success and life management.
+**Project:** ADD Professional Research & Application Development
 
-**Mission:** Execute comprehensive, focused ADD research for this population using production-grade methodology, then build an interactive web application that serves as the definitive resource for professional men exploring or managing ADD.
+**Mission:** To create a definitive, evidence-based web application for professional adult males (25-65) to understand and manage ADHD in their careers and lives. The project is in the final phases of development, focusing on UI refinement, data quality assurance, and deployment.
 
-## **RESOURCE INTEGRATION**
+**Current Status:**
+- **Knowledge Base:** A comprehensive knowledge base of 303 research findings has been completed.
+- **Web Application:** A React-based web application has been developed with a professional UI/UX. The application includes an "Enhanced Research Explorer" to view and interact with the research findings.
+- **Critical Issues:** A comprehensive review has identified critical issues that need to be addressed before deployment, including:
+    - **Data Quality:** Repetitive and generic titles for research findings.
+    - **Incomplete Data:** Only 103 of the 303 research findings are currently displayed.
+    - **Broken Assessment:** The self-assessment component is not functional.
 
-You have access to these uploaded files:
-- `focused_add_research_and_app_prompt.md` - Your primary research directive and methodology
-- `ADD_RESEARCH_PROMPT_v4/` folder - Production-grade schemas and templates
-- `feedback_analysis.md` - Quality standards and methodological insights from expert review
-- `playlist_analysis.md` - Target audience context and real-world content landscape analysis
-- `combined_setup_guide.md` - Integration strategy and success criteria
+## **IMMEDIATE GOALS & TASKS**
 
-**Integration Instructions:**
-- Use the focused research prompt as your primary directive for scope and avatar targeting
-- Apply v4.0 schemas and templates for data structure, validation, and quality assurance
-- Reference feedback analysis for maintaining rigorous quality standards
-- Use playlist analysis insights for understanding target audience needs and application design
+Your primary objective is to address the critical issues identified in the comprehensive review, complete the application development, and deploy the final product.
 
-## **EXECUTION FRAMEWORK**
+**Key Tasks:**
 
-### **PHASE 1: TARGETED RESEARCH (Weeks 1-4)**
+1.  **Fix Critical Data Quality Issues:**
+    *   Develop and execute a plan to fix the repetitive and generic titles in the knowledge base.
+    *   Ensure all 303 research findings are correctly loaded and displayed in the application.
 
-**Research Domains (Avatar-Focused):**
+2.  **Complete Application Development & UI Refinement:**
+    *   Fix the broken self-assessment component.
+    *   Conduct thorough functional testing of all application features.
+    *   Implement any remaining UI improvements based on the professional review.
 
-1. **Adult Male ADD Identification & Assessment**
-   - Late-diagnosis patterns in high-functioning professionals
-   - Gender-specific presentation differences and masking behaviors
-   - Assessment tools validated for adult males (ASRS, DIVA, clinical interviews)
-   - Differential diagnosis considerations (anxiety, depression, burnout vs. ADD)
+3.  **Deploy and Document:**
+    *   Deploy the completed and tested web application to a public URL.
+    *   Create comprehensive user documentation and a final project report.
 
-2. **Workplace & Career Impact**
-   - Executive function challenges in professional and leadership roles
-   - Time management and organizational difficulties in business settings
-   - Hyperfocus advantages and disadvantages in career contexts
-   - Workplace accommodations, disclosure considerations, and legal protections
+## **KEY FILES & RESOURCES**
 
-3. **Evidence-Based Treatment Options**
-   - Medication efficacy and side effects in professional adult men
-   - Cognitive Behavioral Therapy adaptations for adults
-   - Coaching and organizational skill development approaches
-   - Lifestyle interventions compatible with professional schedules
-
-4. **Life Management & Relationships**
-   - Marriage and partnership dynamics with ADD
-   - Parenting considerations and genetic factors
-   - Financial management and impulsivity control strategies
-   - Stress management and burnout prevention in high-pressure careers
-
-5. **Developmental & Historical Context**
-   - Childhood symptoms that predict adult challenges
-   - Educational history patterns and compensatory strategies
-   - Family history and genetic risk factors
-
-**Research Methodology:**
-- Use PRISMA_Template.md for systematic search documentation
-- Apply knowledge_entry.schema.json for all data entries
-- Follow Quality_Gates_Checklist.md for validation
-- Target 300-400 high-quality, avatar-relevant entries
-- Maintain ≥70% evidence from systematic reviews, RCTs, or large cohorts
-
-### **PHASE 2: APPLICATION DEVELOPMENT (Weeks 5-6)**
-
-**Application Requirements:**
-
-1. **Self-Assessment Module**
-   - Adult ADD screening based on validated tools (ASRS adaptation)
-   - Professional impact assessment questionnaire
-   - Results interpretation with evidence-based insights and next steps
-
-2. **Personalized Resource Library**
-   - Treatment options filtered by user preferences and professional context
-   - Workplace strategies and accommodation guidance
-   - Lifestyle interventions designed for busy professionals
-   - Evidence quality indicators for all recommendations
-
-3. **Interactive Decision Support**
-   - Treatment decision tree based on user inputs and professional considerations
-   - Pros/cons analysis for different approaches with workplace impact notes
-   - Implementation difficulty ratings and professional feasibility assessments
-
-4. **Knowledge Explorer**
-   - Searchable database of research findings with evidence quality filters
-   - Workplace relevance sorting and professional context tags
-   - Citation tracking and source verification
-
-**Technical Specifications:**
-- React-based single-page application with professional design
-- JSON-based knowledge base with client-side search capabilities
-- Responsive design optimized for desktop and mobile use
-- Static site deployment ready (Netlify/Vercel compatible)
-- Professional UI/UX suitable for business executives and professionals
-
-## **IMMEDIATE KICKOFF TASKS**
-
-Execute these tasks in order:
-
-1. **Review Integration Materials**
-   - Examine all uploaded files to understand scope, standards, and context
-   - Confirm understanding of avatar focus and quality requirements
-
-2. **Develop Search Strategy**
-   - Create systematic search plan using Search_Plan_Template.md
-   - Generate Boolean queries for adult male ADD research across key databases
-   - Document methodology using PRISMA_Template.md framework
-
-3. **Begin Research Extraction**
-   - Start with high-impact systematic reviews and meta-analyses
-   - Extract data using knowledge_entry.schema.json format
-   - Focus on professional adult male relevance for all entries
-
-4. **Quality Assurance Setup**
-   - Implement Quality_Gates_Checklist.md validation throughout
-   - Establish evidence grading using GRADE methodology
-   - Create tracking system for avatar relevance and practical applicability
-
-5. **Application Planning**
-   - Design user flow and component architecture for React application
-   - Plan data integration approach using structured JSON knowledge base
-   - Outline deployment strategy and technical requirements
-
-## **SUCCESS VALIDATION**
-
-**Phase 1 Targets:**
-- 300-400 validated knowledge entries in JSON format
-- ≥90% avatar relevance (professional adult male applicability)
-- ≥70% high-quality evidence (systematic reviews, RCTs, large cohorts)
-- Complete assessment framework and treatment decision trees
-- Systematic methodology documentation via PRISMA standards
-
-**Phase 2 Targets:**
-- Fully functional React web application with professional design
-- Self-assessment tool with personalized, evidence-based results
-- Interactive resource library with filtering and search capabilities
-- Deployed application with public URL for immediate use
-- Documentation enabling future maintenance and expansion
+-   `/home/ubuntu/add_research_project/COMPREHENSIVE_PROFESSIONAL_REVIEW.md`: This is the most important file for understanding the current state of the project. It contains a detailed analysis of the application's strengths and weaknesses, and a list of critical issues that need to be fixed.
+-   `/home/ubuntu/add_research_project/knowledge_base/knowledge_base.json`: The complete knowledge base of 303 research findings.
+-   `/home/ubuntu/add_research_project/add-professional-app/`: The root directory of the React web application.
+-   `https://github.com/vbonk/add-professional-research`: The GitHub repository for the project.
 
 ## **EXECUTION DIRECTIVE**
 
-**START IMMEDIATELY.** Begin with Task 1 (Review Integration Materials) and proceed systematically through the research and development phases. Maintain avatar focus, apply production-grade rigor, and deliver a comprehensive resource that professional men can use to understand and address ADD in their careers and lives.
-
-**Your output will serve as the definitive, evidence-based resource for intelligent, professional men navigating ADD identification, assessment, and management.**
+**START IMMEDIATELY.** Begin by thoroughly reviewing the `COMPREHENSIVE_PROFESSIONAL_REVIEW.md` file to get a deep understanding of the required fixes. Then, systematically address the critical issues, complete the application, and prepare for deployment. Your goal is to deliver a high-quality, fully functional, and evidence-based resource for professional men with ADHD.
 
